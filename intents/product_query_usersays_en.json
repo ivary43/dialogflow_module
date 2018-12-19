@@ -1,0 +1,164 @@
+[
+  {
+    "id": "35cefcb2-2501-4e9a-813f-2ab041d10f43",
+    "data": [
+      {
+        "text": "show me ",
+        "userDefined": false
+      },
+      {
+        "text": "pen",
+        "alias": "item",
+        "meta": "@item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545180727
+  },
+  {
+    "id": "59db8daa-953d-47a1-985c-1f829d958421",
+    "data": [
+      {
+        "text": "i would like to have some ",
+        "userDefined": false
+      },
+      {
+        "text": "mobiles",
+        "alias": "item",
+        "meta": "@item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545181727
+  },
+  {
+    "id": "a70afcd2-c0f1-460a-9869-dcd7272c4417",
+    "data": [
+      {
+        "text": "provide me some ",
+        "userDefined": false
+      },
+      {
+        "text": "mobiles",
+        "alias": "item",
+        "meta": "@item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545181727
+  },
+  {
+    "id": "b91fbef4-8803-4174-a4c9-68f6199df44a",
+    "data": [
+      {
+        "text": "I would like to purchase a ",
+        "userDefined": false
+      },
+      {
+        "text": "laptop",
+        "alias": "item",
+        "meta": "@item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545181727
+  },
+  {
+    "id": "0da05f4d-477e-4013-81eb-4afe3423853d",
+    "data": [
+      {
+        "text": "show me some ",
+        "userDefined": false
+      },
+      {
+        "text": "pens",
+        "alias": "item",
+        "meta": "@item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545181727
+  },
+  {
+    "id": "b855df8c-d093-4e69-8e67-19cfcf318583",
+    "data": [
+      {
+        "text": "give me a ",
+        "userDefined": false
+      },
+      {
+        "text": "bicycle",
+        "alias": "item",
+        "meta": "@item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545180071
+  },
+  {
+    "id": "bbb664b2-ed3e-432b-8164-cf3f7d4d3779",
+    "data": [
+      {
+        "text": "can i have a ",
+        "userDefined": false
+      },
+      {
+        "text": "pen",
+        "alias": "item",
+        "meta": "@item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545180071
+  },
+  {
+    "id": "aa1d9300-908e-4597-b3b3-b20062faf677",
+    "data": [
+      {
+        "text": "i wanna have a ",
+        "userDefined": false
+      },
+      {
+        "text": "pen",
+        "alias": "item",
+        "meta": "@item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545180071
+  },
+  {
+    "id": "2fd979ca-4c6c-491e-8690-b7a0ddf25a72",
+    "data": [
+      {
+        "text": "I want to buy a ",
+        "userDefined": false
+      },
+      {
+        "text": "pen",
+        "alias": "item",
+        "meta": "@item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545180071
+  }
+]

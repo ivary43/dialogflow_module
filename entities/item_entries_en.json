@@ -1,0 +1,51 @@
+[
+  {
+    "value": "pen",
+    "synonyms": [
+      "pen",
+      "pens"
+    ]
+  },
+  {
+    "value": "biycycle",
+    "synonyms": [
+      "bicycle",
+      "bicycles"
+    ]
+  },
+  {
+    "value": "bottle",
+    "synonyms": [
+      "bottle",
+      "bottles"
+    ]
+  },
+  {
+    "value": "shirt",
+    "synonyms": [
+      "shirt",
+      "shirts"
+    ]
+  },
+  {
+    "value": "phone",
+    "synonyms": [
+      "phone",
+      "phones"
+    ]
+  },
+  {
+    "value": "laptop",
+    "synonyms": [
+      "laptop",
+      "laptops"
+    ]
+  },
+  {
+    "value": "book",
+    "synonyms": [
+      "book",
+      "books"
+    ]
+  }
+]

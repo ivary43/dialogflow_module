@@ -1,0 +1,38 @@
+{
+  "id": "1e8ed7cd-2f73-46cc-bb68-afe91b212912",
+  "name": "buy_intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d6218706-6f31-4cbf-be37-fe0e54aa91c3",
+          "required": false,
+          "dataType": "@delivrables",
+          "name": "delivrables",
+          "value": "$delivrables",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Your order has been placed successfully.  Your $delivrables will reach your  specified address within a week. Thank you for shopping with us."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545216442,
+  "fallbackIntent": false,
+  "events": []
+}

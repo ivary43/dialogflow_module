@@ -1,0 +1,37 @@
+{
+  "id": "35ce2fe1-8214-4f08-b60e-6a106ec17a92",
+  "name": "product_query",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fe361376-b7f0-4d27-8fc4-61e5a2a6711a",
+          "required": true,
+          "dataType": "@item",
+          "name": "item",
+          "value": "$item",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter the item name correctly"
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545216388,
+  "fallbackIntent": false,
+  "events": []
+}

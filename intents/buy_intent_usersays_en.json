@@ -1,0 +1,176 @@
+[
+  {
+    "id": "f78ed893-521e-47d2-bed4-336933396068",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "parker",
+        "alias": "delivrables",
+        "meta": "@delivrables",
+        "userDefined": true
+      },
+      {
+        "text": " plzz..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545212423
+  },
+  {
+    "id": "a4a3daba-9275-4ded-86e2-7b3eda344547",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "trimax",
+        "alias": "delivrables",
+        "meta": "@delivrables",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545212423
+  },
+  {
+    "id": "d2b7a955-6a89-4200-88a8-87e597c929fa",
+    "data": [
+      {
+        "text": "please deliver a ",
+        "userDefined": false
+      },
+      {
+        "text": "parker",
+        "alias": "delivrables",
+        "meta": "@delivrables",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545212423
+  },
+  {
+    "id": "0564c0cd-295a-4152-a1d1-f7c2559dab2b",
+    "data": [
+      {
+        "text": "deliver me a ",
+        "userDefined": false
+      },
+      {
+        "text": "parker",
+        "alias": "delivrables",
+        "meta": "@delivrables",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545212423
+  },
+  {
+    "id": "d30c0af4-d8f5-4aef-a850-26d30651405b",
+    "data": [
+      {
+        "text": "get a ",
+        "userDefined": false
+      },
+      {
+        "text": "trimax",
+        "alias": "delivrables",
+        "meta": "@delivrables",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545212423
+  },
+  {
+    "id": "a0291a98-444d-4340-8c91-2e5f8430f357",
+    "data": [
+      {
+        "text": "purchase a ",
+        "userDefined": false
+      },
+      {
+        "text": "trimax",
+        "alias": "delivrables",
+        "meta": "@delivrables",
+        "userDefined": false
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545212423
+  },
+  {
+    "id": "453995e1-bc0f-400a-8090-e70f0c81428f",
+    "data": [
+      {
+        "text": "can i get a ",
+        "userDefined": false
+      },
+      {
+        "text": "trimax",
+        "alias": "delivrables",
+        "meta": "@delivrables",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545212423
+  },
+  {
+    "id": "87c87f6b-690d-4158-90a0-3aefdbd0620c",
+    "data": [
+      {
+        "text": "get me a ",
+        "userDefined": false
+      },
+      {
+        "text": "trimax",
+        "alias": "delivrables",
+        "meta": "@delivrables",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545212423
+  },
+  {
+    "id": "51ba994f-a2e3-4d48-91ae-52f53a5d478a",
+    "data": [
+      {
+        "text": "buy me a ",
+        "userDefined": false
+      },
+      {
+        "text": "parker",
+        "alias": "delivrables",
+        "meta": "@delivrables",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545211888
+  }
+]
